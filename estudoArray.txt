@@ -1,0 +1,6 @@
+let alunos = ["Edson", "Guilherme", "Bruno", " Gustavo"];
+
+let idades = [25, 19, 24, 27];
+
+console.log(alunos);
+console.log(idades);
